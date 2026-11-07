@@ -3,7 +3,7 @@
 Cascade is a tool to re-organize your downloads according to user-defined rules stored in [here](https://github.com/blnchdev/Cascade/tree/main/Rules)  
 
 <figure align="center">
-  <img src="https://blanche.dev/img/Cascade/UsePreview.gif" width="1000" />
+  <img src="https://i.imgur.com/5eEWlXR.gif" width="1000" />
 </figure>
 
 ### Usage
@@ -21,12 +21,12 @@ Available parameters are:
 Cascade will create folders at your target directory, resulting in those:
 
 <figure align="center">
-  <img src="https://blanche.dev/img/Cascade/Directories.png" width="1000" />
+  <img src="https://i.imgur.com/73EFxWc.png" width="1000" />
 </figure>
 
 It will also log what it has done, e.g.:
 <figure align="center">
-  <img src="https://blanche.dev/img/Cascade/Logs.png" width="1000" />
+  <img src="https://i.imgur.com/S6hFyQo.png" width="1000" />
 </figure>
 
 ### Compiling
